@@ -39,6 +39,6 @@ Voice-powered AI assistant project.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn
-- Portfolio: Add portfolio link
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/sk-arman-a27bb3306/
+- Portfolio: tba
+- Email: ska628480@gmail.com
