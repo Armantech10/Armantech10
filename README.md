@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Developer;Machine+Learning+Enthusiast;Hackathon+Builder;Speech+Emotion+Recognition+Developer;Voice+AI+Engineer" />
 </p>
 
-<h3 align="center">🚀 AI Developer | Hackathon Builder | ML Enthusiast</h3>
+<h3 align="center">🚀 AI Developer | Hackathon Builder | Lifelong learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Armantech10&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
