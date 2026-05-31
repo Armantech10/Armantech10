@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm SK Arman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Developer;Machine+Learning+Enthusiast;Hackathon+Builder;Speech+Emotion+Recognition+Developer;Voice+AI+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Developer;Lifelong+Learner;Hackathon+Builder;" />
 </p>
 
 <h3 align="center">🚀 AI Developer | Hackathon Builder | Lifelong learner</h3>
