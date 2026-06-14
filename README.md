@@ -82,7 +82,7 @@ text 🔹 Speech Emotion Recognition 🔹 Interview Confidence Detection 🔹 Vo
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me Via
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sk-arman-a27bb3306/">
