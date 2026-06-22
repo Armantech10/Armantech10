@@ -17,7 +17,7 @@
 - 🎤 Building Speech Emotion Recognition Systems
 - 🎯 Developing AI-Based Interview Confidence Detection
 - 🏆 Active Hackathon Participant
-- 🌱 Exploring Machine Learning, Deep Learning & Full Stack Development
+- 🌱 Exploring Machine Learning, Deep Learning & Full Stack Development as well as cybersecurity
 - 💡 Passionate about solving real-world problems with AI
 
 ---
